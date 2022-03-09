@@ -1,0 +1,9 @@
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\bin\Debug\netstandard2.0\Dominios.deps.json
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\bin\Debug\netstandard2.0\Dominios.dll
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\bin\Debug\netstandard2.0\Dominios.pdb
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.csprojAssemblyReference.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.csproj.CoreCompileInputs.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.AssemblyInfoInputs.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.AssemblyInfo.cs
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.dll
+C:\Users\JADPA03\Downloads\Depreciacion\Dominio\obj\Debug\netstandard2.0\Dominios.pdb

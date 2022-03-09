@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JADPA02\\.nuget\\packages\\": {},
+    "C:\\Users\\JADPA03\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA02\\source\\repos\\Depreciacion\\Aplicacion\\Aplicaciones.csproj",
+      "projectUniqueName": "C:\\Users\\JADPA03\\Downloads\\Depreciacion\\Aplicacion\\Aplicaciones.csproj",
       "projectName": "Aplicaciones",
-      "projectPath": "C:\\Users\\JADPA02\\source\\repos\\Depreciacion\\Aplicacion\\Aplicaciones.csproj",
-      "packagesPath": "C:\\Users\\JADPA02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA02\\source\\repos\\Depreciacion\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Users\\JADPA03\\Downloads\\Depreciacion\\Aplicacion\\Aplicaciones.csproj",
+      "packagesPath": "C:\\Users\\JADPA03\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JADPA03\\Downloads\\Depreciacion\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JADPA02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JADPA03\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

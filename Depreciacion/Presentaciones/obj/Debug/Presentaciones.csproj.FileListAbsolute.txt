@@ -1,0 +1,11 @@
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\bin\Debug\Presentaciones.exe.config
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\bin\Debug\Presentaciones.exe
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\bin\Debug\Presentaciones.pdb
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.csprojAssemblyReference.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.FrmDatos.resources
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.Formularios.FrmMenu.resources
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.Properties.Resources.resources
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.csproj.GenerateResource.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.csproj.CoreCompileInputs.cache
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.exe
+C:\Users\JADPA03\Downloads\Depreciacion\Presentaciones\obj\Debug\Presentaciones.pdb
